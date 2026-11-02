@@ -1,4 +1,4 @@
-# Wright-Fisher Evolutionary Simulator 🧬
+# Wright-Fisher Evolutionary Genetics Simulator 🧬
 
 An interactive Python application modeling allele frequency changes over generations under the core evolutionary forces of **genetic drift**, **natural selection**, and **mutation** using the Wright-Fisher model. Optimized for exploration within Google Colab.
 
